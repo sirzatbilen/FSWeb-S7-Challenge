@@ -1,0 +1,30 @@
+.ana-container{
+    display: flex;
+}
+
+.img-container img{
+    height: 70vh;
+}
+.bilgi{
+    background-color:ghostwhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    letter-spacing: 1px;
+}
+
+.fotolar {
+    display: flex;
+    width: 100%;
+    
+}
+.fotolar img{
+    height: 53vh;
+}
+.resim3{
+    width: 50%;
+}
+h3{
+    font-size: 2rem;
+}

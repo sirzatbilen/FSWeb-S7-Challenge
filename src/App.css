@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+header nav {
+  display: flex;
+  justify-content: center;
+  column-gap: 3rem;
+  text-decoration: none;
+  background-color: #d7dbbfd5;
+  padding: 1rem;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+.navlink {
+  text-decoration: none;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.navlink:hover {
+  background-color: black;
+  color: whitesmoke;
+  transition: 0.5s;
+}
+img{
+  height: 100px;
+}
+.div-link{
+  display: flex;
+  justify-content: center;
+  column-gap: 10rem;
+  margin: auto 0;
+}
+
